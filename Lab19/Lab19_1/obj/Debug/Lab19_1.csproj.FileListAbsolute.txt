@@ -1,0 +1,6 @@
+E:\C#\Lab19\Lab19_1\bin\Debug\Lab19_1.exe.config
+E:\C#\Lab19\Lab19_1\bin\Debug\Lab19_1.exe
+E:\C#\Lab19\Lab19_1\bin\Debug\Lab19_1.pdb
+E:\C#\Lab19\Lab19_1\obj\Debug\Lab19_1.exe
+E:\C#\Lab19\Lab19_1\obj\Debug\Lab19_1.pdb
+E:\C#\Lab19\Lab19_1\obj\Debug\Lab19_1.csprojAssemblyReference.cache

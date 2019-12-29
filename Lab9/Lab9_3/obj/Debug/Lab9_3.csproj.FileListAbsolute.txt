@@ -1,0 +1,6 @@
+E:\C#\Lab9\Lab9_3\bin\Debug\Lab9_3.exe.config
+E:\C#\Lab9\Lab9_3\bin\Debug\Lab9_3.exe
+E:\C#\Lab9\Lab9_3\bin\Debug\Lab9_3.pdb
+E:\C#\Lab9\Lab9_3\obj\Debug\Lab9_3.csprojAssemblyReference.cache
+E:\C#\Lab9\Lab9_3\obj\Debug\Lab9_3.exe
+E:\C#\Lab9\Lab9_3\obj\Debug\Lab9_3.pdb

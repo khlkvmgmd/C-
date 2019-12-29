@@ -1,0 +1,7 @@
+E:\C#\Lab2_4CS\bin\Debug\Lab2_4CS.exe.config
+E:\C#\Lab2_4CS\bin\Debug\Lab2_4CS.exe
+E:\C#\Lab2_4CS\bin\Debug\Lab2_4CS.pdb
+E:\C#\Lab2_4CS\obj\Debug\Lab2_4CS.csproj.CoreCompileInputs.cache
+E:\C#\Lab2_4CS\obj\Debug\Lab2_4CS.exe
+E:\C#\Lab2_4CS\obj\Debug\Lab2_4CS.pdb
+E:\C#\Lab2_4CS\obj\Debug\Lab2_4CS.csprojAssemblyReference.cache

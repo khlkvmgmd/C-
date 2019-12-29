@@ -1,0 +1,6 @@
+E:\C#\Lab4(СS)\Lab4(СS)\bin\Debug\Lab4(СS).exe.config
+E:\C#\Lab4(СS)\Lab4(СS)\bin\Debug\Lab4(СS).exe
+E:\C#\Lab4(СS)\Lab4(СS)\bin\Debug\Lab4(СS).pdb
+E:\C#\Lab4(СS)\Lab4(СS)\obj\Debug\Lab4(СS).csprojAssemblyReference.cache
+E:\C#\Lab4(СS)\Lab4(СS)\obj\Debug\Lab4(СS).exe
+E:\C#\Lab4(СS)\Lab4(СS)\obj\Debug\Lab4(СS).pdb

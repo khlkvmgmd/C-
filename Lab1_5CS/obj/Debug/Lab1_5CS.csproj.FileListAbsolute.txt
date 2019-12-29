@@ -1,0 +1,7 @@
+E:\C#\Lab1_5CS\bin\Debug\Lab1_5CS.exe.config
+E:\C#\Lab1_5CS\bin\Debug\Lab1_5CS.exe
+E:\C#\Lab1_5CS\bin\Debug\Lab1_5CS.pdb
+E:\C#\Lab1_5CS\obj\Debug\Lab1_5CS.csprojAssemblyReference.cache
+E:\C#\Lab1_5CS\obj\Debug\Lab1_5CS.csproj.CoreCompileInputs.cache
+E:\C#\Lab1_5CS\obj\Debug\Lab1_5CS.exe
+E:\C#\Lab1_5CS\obj\Debug\Lab1_5CS.pdb

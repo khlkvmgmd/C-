@@ -1,0 +1,5 @@
+E:\C#\Lab19\Lab19_4\bin\Debug\Lab19_4.exe.config
+E:\C#\Lab19\Lab19_4\bin\Debug\Lab19_4.exe
+E:\C#\Lab19\Lab19_4\bin\Debug\Lab19_4.pdb
+E:\C#\Lab19\Lab19_4\obj\Debug\Lab19_4.exe
+E:\C#\Lab19\Lab19_4\obj\Debug\Lab19_4.pdb

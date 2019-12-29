@@ -1,0 +1,5 @@
+E:\C#\Lab17\Lab17_3\bin\Debug\Lab17_3.exe.config
+E:\C#\Lab17\Lab17_3\bin\Debug\Lab17_3.exe
+E:\C#\Lab17\Lab17_3\bin\Debug\Lab17_3.pdb
+E:\C#\Lab17\Lab17_3\obj\Debug\Lab17_3.exe
+E:\C#\Lab17\Lab17_3\obj\Debug\Lab17_3.pdb

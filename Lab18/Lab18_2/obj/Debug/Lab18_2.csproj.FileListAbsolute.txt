@@ -1,0 +1,6 @@
+E:\C#\Lab18\Lab18_2\bin\Debug\Lab18_2.exe.config
+E:\C#\Lab18\Lab18_2\bin\Debug\Lab18_2.exe
+E:\C#\Lab18\Lab18_2\bin\Debug\Lab18_2.pdb
+E:\C#\Lab18\Lab18_2\obj\Debug\Lab18_2.csprojAssemblyReference.cache
+E:\C#\Lab18\Lab18_2\obj\Debug\Lab18_2.exe
+E:\C#\Lab18\Lab18_2\obj\Debug\Lab18_2.pdb

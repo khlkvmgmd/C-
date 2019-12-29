@@ -1,0 +1,6 @@
+E:\C#\Lab17\LaB17_4\bin\Debug\LaB17_4.exe.config
+E:\C#\Lab17\LaB17_4\bin\Debug\LaB17_4.exe
+E:\C#\Lab17\LaB17_4\bin\Debug\LaB17_4.pdb
+E:\C#\Lab17\LaB17_4\obj\Debug\LaB17_4.csprojAssemblyReference.cache
+E:\C#\Lab17\LaB17_4\obj\Debug\LaB17_4.exe
+E:\C#\Lab17\LaB17_4\obj\Debug\LaB17_4.pdb

@@ -1,0 +1,6 @@
+E:\C#\Lab10\Lab10_2\bin\Debug\Lab10_2.exe.config
+E:\C#\Lab10\Lab10_2\bin\Debug\Lab10_2.exe
+E:\C#\Lab10\Lab10_2\bin\Debug\Lab10_2.pdb
+E:\C#\Lab10\Lab10_2\obj\Debug\Lab10_2.csprojAssemblyReference.cache
+E:\C#\Lab10\Lab10_2\obj\Debug\Lab10_2.exe
+E:\C#\Lab10\Lab10_2\obj\Debug\Lab10_2.pdb

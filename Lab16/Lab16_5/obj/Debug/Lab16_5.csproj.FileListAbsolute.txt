@@ -1,0 +1,5 @@
+E:\C#\Lab16\Lab16_5\bin\Debug\Lab16_5.exe.config
+E:\C#\Lab16\Lab16_5\bin\Debug\Lab16_5.exe
+E:\C#\Lab16\Lab16_5\bin\Debug\Lab16_5.pdb
+E:\C#\Lab16\Lab16_5\obj\Debug\Lab16_5.exe
+E:\C#\Lab16\Lab16_5\obj\Debug\Lab16_5.pdb

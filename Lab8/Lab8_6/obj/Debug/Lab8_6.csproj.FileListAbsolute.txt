@@ -1,0 +1,5 @@
+E:\C#\Lab8\Lab8_6\bin\Debug\Lab8_6.exe.config
+E:\C#\Lab8\Lab8_6\bin\Debug\Lab8_6.exe
+E:\C#\Lab8\Lab8_6\bin\Debug\Lab8_6.pdb
+E:\C#\Lab8\Lab8_6\obj\Debug\Lab8_6.exe
+E:\C#\Lab8\Lab8_6\obj\Debug\Lab8_6.pdb

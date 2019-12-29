@@ -1,0 +1,6 @@
+E:\C#\Lab16\Lab16_3\obj\Debug\Lab16_3.csprojAssemblyReference.cache
+E:\C#\Lab16\Lab16_3\bin\Debug\Lab16_3.exe.config
+E:\C#\Lab16\Lab16_3\bin\Debug\Lab16_3.exe
+E:\C#\Lab16\Lab16_3\bin\Debug\Lab16_3.pdb
+E:\C#\Lab16\Lab16_3\obj\Debug\Lab16_3.exe
+E:\C#\Lab16\Lab16_3\obj\Debug\Lab16_3.pdb

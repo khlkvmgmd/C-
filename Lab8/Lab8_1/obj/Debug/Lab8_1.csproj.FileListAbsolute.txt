@@ -1,0 +1,6 @@
+E:\C#\Lab8\Lab8_1\obj\Debug\Lab8_1.csprojAssemblyReference.cache
+E:\C#\Lab8\Lab8_1\bin\Debug\Lab8_1.exe.config
+E:\C#\Lab8\Lab8_1\bin\Debug\Lab8_1.exe
+E:\C#\Lab8\Lab8_1\bin\Debug\Lab8_1.pdb
+E:\C#\Lab8\Lab8_1\obj\Debug\Lab8_1.exe
+E:\C#\Lab8\Lab8_1\obj\Debug\Lab8_1.pdb

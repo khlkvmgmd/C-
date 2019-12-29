@@ -1,0 +1,5 @@
+E:\C#\Lab12\Lab12_3\bin\Debug\Lab12_3.exe.config
+E:\C#\Lab12\Lab12_3\bin\Debug\Lab12_3.exe
+E:\C#\Lab12\Lab12_3\bin\Debug\Lab12_3.pdb
+E:\C#\Lab12\Lab12_3\obj\Debug\Lab12_3.exe
+E:\C#\Lab12\Lab12_3\obj\Debug\Lab12_3.pdb

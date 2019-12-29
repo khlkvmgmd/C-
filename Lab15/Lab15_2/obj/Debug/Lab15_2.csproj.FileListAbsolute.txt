@@ -1,0 +1,6 @@
+E:\C#\Lab15\Lab15_2\bin\Debug\Lab15_2.exe.config
+E:\C#\Lab15\Lab15_2\bin\Debug\Lab15_2.exe
+E:\C#\Lab15\Lab15_2\bin\Debug\Lab15_2.pdb
+E:\C#\Lab15\Lab15_2\obj\Debug\Lab15_2.csprojAssemblyReference.cache
+E:\C#\Lab15\Lab15_2\obj\Debug\Lab15_2.exe
+E:\C#\Lab15\Lab15_2\obj\Debug\Lab15_2.pdb

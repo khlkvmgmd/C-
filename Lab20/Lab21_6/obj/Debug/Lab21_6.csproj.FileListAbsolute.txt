@@ -1,0 +1,6 @@
+E:\C#\Lab20\Lab21_6\bin\Debug\Lab21_6.exe.config
+E:\C#\Lab20\Lab21_6\bin\Debug\Lab21_6.exe
+E:\C#\Lab20\Lab21_6\bin\Debug\Lab21_6.pdb
+E:\C#\Lab20\Lab21_6\obj\Debug\Lab21_6.csprojAssemblyReference.cache
+E:\C#\Lab20\Lab21_6\obj\Debug\Lab21_6.exe
+E:\C#\Lab20\Lab21_6\obj\Debug\Lab21_6.pdb

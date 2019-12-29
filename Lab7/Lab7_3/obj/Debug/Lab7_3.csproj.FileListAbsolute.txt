@@ -1,0 +1,6 @@
+E:\C#\Lab7\Lab7_3\bin\Debug\Lab7_3.exe.config
+E:\C#\Lab7\Lab7_3\bin\Debug\Lab7_3.exe
+E:\C#\Lab7\Lab7_3\bin\Debug\Lab7_3.pdb
+E:\C#\Lab7\Lab7_3\obj\Debug\Lab7_3.exe
+E:\C#\Lab7\Lab7_3\obj\Debug\Lab7_3.pdb
+E:\C#\Lab7\Lab7_3\obj\Debug\Lab7_3.csprojAssemblyReference.cache
